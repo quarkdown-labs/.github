@@ -4,10 +4,10 @@ If you're looking for the Quarkdown project, see [iamgio/quarkdown](https://gith
 Here you'll find:
 
 - **Quarkdown ecosystem**
-  - [quarkdown-vscode](https://github.com/quarkdown-labs/quarkdown-vscode) official VS Code extension
-  - [setup-quarkdown](https://github.com/quarkdown-labs/setup-quarkdown) GitHub action
-  - Installation methods: [Bash](https://github.com/quarkdown-labs/get-quarkdown), [PowerShell](https://github.com/quarkdown-labs/get-quarkdown), [Homebrew](https://github.com/quarkdown-labs/homebrew-quarkdown), [Scoop](https://github.com/quarkdown-labs/scoop-quarkdown)
-  - Quarkdown-generated artifacts
+  - [quarkdown-vscode](https://github.com/quarkdown-labs/quarkdown-vscode): VS Code extension
+  - [setup-quarkdown](https://github.com/quarkdown-labs/setup-quarkdown): GitHub Action
+  - [generated](https://github.com/quarkdown-labs/generated): Quarkdown-generated artifacts
+  - Installation methods ([Bash](https://github.com/quarkdown-labs/get-quarkdown), [PowerShell](https://github.com/quarkdown-labs/get-quarkdown), [Homebrew](https://github.com/quarkdown-labs/homebrew-quarkdown), [Scoop](https://github.com/quarkdown-labs/scoop-quarkdown))
 
 - **Open source libraries** Quarkdown uses
   - [amber.kt](https://github.com/quarkdown-labs/amber.kt): compile-time utilities
