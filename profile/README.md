@@ -8,7 +8,7 @@ Here you'll find:
   - [setup-quarkdown](https://github.com/quarkdown-labs/setup-quarkdown) GitHub action
   - Quarkdown-generated artifacts
 
-- **Open source libraries** used by Quarkdown
+- **Open source libraries** Quarkdown uses
   - [amber.kt](https://github.com/quarkdown-labs/amber.kt): compile-time utilities
   - [kotlin-bibliographer](https://github.com/quarkdown-labs/kotlin-bibliographer): multiplatform bibliography management
   - [better-parse](https://github.com/quarkdown-labs/better-parse): `better-parse` fork with Kotlin/Wasm support
