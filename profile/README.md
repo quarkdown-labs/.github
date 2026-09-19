@@ -4,7 +4,7 @@ If you're looking for the Quarkdown project, see [iamgio/quarkdown](https://gith
 Here you'll find:
 
 - **Quarkdown ecosystem**
-  - Installation methods (Bash, PowerShell, Homebrew, Scoop)
+  - Installation methods: [Bash](https://github.com/quarkdown-labs/get-quarkdown), [PowerShell](https://github.com/quarkdown-labs/get-quarkdown), [Homebrew](https://github.com/quarkdown-labs/homebrew-quarkdown), [Scoop](https://github.com/quarkdown-labs/scoop-quarkdown)
   - [setup-quarkdown](https://github.com/quarkdown-labs/setup-quarkdown) GitHub action
   - Quarkdown-generated artifacts
 
